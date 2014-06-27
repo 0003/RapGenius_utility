@@ -1,6 +1,6 @@
 RapGenius_utility
 =================
 
-*Get lyrics
+*Get lyrics \n
 *Get youtube
 
